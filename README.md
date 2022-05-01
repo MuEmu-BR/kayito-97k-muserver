@@ -82,14 +82,13 @@
 * SkyDome (Like Skybox but rounded)
 * And Some Important Fixes
 
-### NOTA:
-  
-Nome de usuário, senha e nome máximo de 10 caracteres
-Código pessoal 16 dígitos
-Bloc_code 0 ou 1 (BAN)
-AccountLevel 0, 1, 2 ou 3 (VIP)
-AccountExpireDate GETDATE() + 5 -> Data de hoje + 5 dias VIP
-Bloc_Expire GETDATE() + 5 -> Data de hoje + 5 dias de BAN
+## NOTA:
+* Nome de usuário, senha e nome máximo de 10 caracteres
+* Código pessoal 16 dígitos
+* bloc_code 0 ou 1 (BAN)
+* AccountLevel 0, 1, 2 ou 3 (VIP)
+* AccountExpireDate GETDATE() + 5 -> Data de hoje + 5 dias VIP
+* Bloc_Expire GETDATE() + 5 -> Data de hoje + 5 dias de BAN
 
     USE MuOnline97
     
